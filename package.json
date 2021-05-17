@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "http-server",
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "axe-core": "^4.2.0",
+    "cypress": "7.3.0",
+    "cypress-axe": "0.12.2"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
