@@ -978,7 +978,7 @@ Below are some hypothetical Beneficiaries that gives you a sense of what is foun
 
 **Meet Lucille**
 
-Lucille is an 70-year old female. She has non-small cell lung cancer. Prior to her diagnosis, Lucille was active and had no significant health issues. She went on daily walks around her neighborhood, did yoga and made a concerted effort to eat healthy. Lucille smoked cigarettes for a few years when she was a teenager, but quit after her father passed away from lung cancer. Her only other family history is mild hypertension on her mother’s side.
+Lucille is a 70-year old female. She has non-small cell lung cancer. Prior to her diagnosis, Lucille was active and had no significant health issues. She went on daily walks around her neighborhood, did yoga and made a concerted effort to eat healthy. Lucille smoked cigarettes for a few years when she was a teenager, but she quit after her father passed away from lung cancer. Her only other family history is mild hypertension on her mother’s side.
 
 Below are some examples you may find in the Explanation of Benefit FHIR resource for Lucille.
 
